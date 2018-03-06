@@ -37,3 +37,5 @@ workon genialis-kpi
 ./start_notebook.sh
 # default browser should pop-up, navigate to `CS monitoring.ipynb` notebook or create your own
 ```
+
+To finish working, press CTRL+c and confirm the shutting down of the server. To leave the virtual envirnment, use `deactive`.
