@@ -22,6 +22,8 @@ mkvirtualenv genialis-kpi --python=/usr/local/bin/python3.6
 ```
 
 ### Initiate this repository (one time step)
+For easier accessing of the repository, consider [adding a SSH key to GitHub](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/).
+
 ```
 # cd to appropriate folder, e.g. ~/Documents/projects
 # fork this repository (on GitHub) and clone it
