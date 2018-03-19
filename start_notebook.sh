@@ -9,4 +9,5 @@ if [ "$jtinstalled" == 0 ]; then
 fi
 
 jt -t gruvboxd -f roboto -fs 12 -cellw 100%
+
 jupyter notebook
